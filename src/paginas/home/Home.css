@@ -1,22 +1,11 @@
-.titulo {
-
-    color:rgb(99, 53, 53);
+titulo{
+    color: blue;
     text-align: center;
-   
 }
 
 .img{
-
-    width: 500px ;
+    width: 500px;
     height: 500px;
     display: block;
     margin: 0 auto;
-}
-
-.text {
-
-    color: brown;
-    font-weight: bolder;
-    font-size: 50px;
-
 }
