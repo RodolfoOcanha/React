@@ -6,3 +6,22 @@
       background-size: cover;
       background-position: center;
   }
+
+  
+  body {
+    font-family: "Poppins", sans-serif;
+    margin: 0 auto;
+    max-width: 1120px;
+    background: rgb(4, 27, 145);
+    background: radial-gradient(circle , #1872c7 0%, rgb(255, 255, 255) 100%);
+    background-size: 120% 120%;
+  }
+
+.navbar{
+
+  font-weight: bold;
+  background-color: #1872c7;
+  text: white;
+
+
+}
